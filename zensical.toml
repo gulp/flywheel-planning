@@ -23,7 +23,7 @@ nav = [
     "playbook/prompt-pack.md",
   ]},
   { "Prompts" = [
-    "prompts/index.md",
+    { "Prompt Library" = "prompts/index.md" },
     { "Ideation" = [
       "prompts/ideation/idea-wizard.md",
       "prompts/ideation/100-to-10-filter.md",
@@ -104,8 +104,8 @@ toggle.name = "Switch to dark mode"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/github"
-link = "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+link = "https://github.com/gulp/flywheel-planning"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/x-twitter"
-link = "https://x.com/doodlestein"
+link = "https://x.com/gulp"

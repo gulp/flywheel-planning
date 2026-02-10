@@ -6,7 +6,7 @@ icon: lucide/rocket
 
 A step-by-step operational guide for planning and executing software projects with coding agents.
 
-Based on [Jeffrey Emanuel's](https://jeffreyemanuel.com/) (@doodlestein) agentic coding methodology and the [Agentic Coding Flywheel](https://jeffreyemanuel.com/tldr).
+Based on [Jeffrey Emanuel's](https://jeffreyemanuel.com/) ([@doodlestein](https://x.com/doodlestein)) agentic coding methodology and the [Agentic Coding Flywheel](https://agent-flywheel.com/). Prompt library derived from [jeffreysprompts.com](https://jeffreysprompts.com/). Playbook derived from @voidserf's guide [World-Class Planning With Agent Flywheel](https://x.com/voidserf/status/2018016937834631390).
 
 ---
 
@@ -57,6 +57,8 @@ The result: agents produce better code faster because they're working from a pla
 
 ## Sources
 
-- [Jeffrey Emanuel's Agentic Coding Flywheel](https://jeffreyemanuel.com/tldr)
+- [Jeffrey Emanuel's Agentic Coding Flywheel](https://agent-flywheel.com/)
 - [Agentic Coding Flywheel Setup (GitHub)](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup)
 - [@doodlestein on X](https://x.com/doodlestein)
+- [@voidserf's prompt guide](https://x.com/voidserf/status/2018016937834631390)
+- [jeffreysprompts.com](https://jeffreysprompts.com/)

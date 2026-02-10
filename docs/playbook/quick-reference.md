@@ -68,6 +68,6 @@ graph TD
 
 ## Sources
 
-- [Jeffrey Emanuel's Agentic Coding Flywheel](https://jeffreyemanuel.com/tldr)
+- [Jeffrey Emanuel's Agentic Coding Flywheel](https://agent-flywheel.com/)
 - [Flywheel Setup (GitHub)](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup)
 - [@doodlestein on X](https://x.com/doodlestein)

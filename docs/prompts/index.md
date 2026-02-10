@@ -6,6 +6,8 @@ icon: lucide/terminal
 
 Battle-tested prompts from [@doodlestein's](https://x.com/doodlestein) workflow for directing coding agents. Each prompt is a standalone directive you paste into an agent session.
 
+Derived from [jeffreysprompts.com](https://jeffreysprompts.com/).
+
 Browse by category in the sidebar, or see the full list below.
 
 ---
@@ -28,6 +30,7 @@ Browse by category in the sidebar, or see the full list below.
 | [Agent Swarm Launcher](automation/agent-swarm-launcher.md) | Boot an agent into a multi-agent swarm |
 | [Deep Project Planner](automation/deep-project-planner.md) | Bootstrap agent understanding of the full project |
 | [CLI Error Tolerance](automation/cli-error-tolerance.md) | Make CLI robot-mode forgiving of syntax issues |
+| [The Git Committer](automation/the-git-committer.md) | Commit changed files in logical groupings with detailed messages |
 
 ## Debugging
 
@@ -57,7 +60,10 @@ Browse by category in the sidebar, or see the full list below.
 | Prompt | What it does |
 |--------|-------------|
 | [README Reviser](documentation/readme-reviser.md) | Update docs to reflect current state |
+| [The De-Slopifier](documentation/de-slopifier.md) | Remove telltale AI writing patterns from text |
 
 ## Workflow
 
-*More prompts coming soon.*
+| Prompt | What it does |
+|--------|-------------|
+| [Deep Project Primer](workflow/deep-project-primer.md) | Essential first step to understand a project before any work |
