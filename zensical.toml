@@ -1,0 +1,111 @@
+[project]
+site_name = "Flywheel Planning Playbook"
+site_description = "A step-by-step operational guide for planning and executing software projects with coding agents, based on Jeffrey Emanuel's agentic coding methodology."
+site_author = "Based on @doodlestein's methodology"
+
+copyright = """
+Based on <a href="https://jeffreyemanuel.com/">Jeffrey Emanuel's</a> agentic coding methodology
+"""
+
+nav = [
+  { "Home" = "index.md" },
+  { "Playbook" = [
+    "playbook/index.md",
+    "playbook/principles.md",
+    "playbook/phase-0-prerequisites.md",
+    "playbook/phase-1-draft.md",
+    "playbook/phase-2-refine.md",
+    "playbook/phase-3-beads.md",
+    "playbook/phase-4-qa.md",
+    "playbook/phase-5-swarm.md",
+    "playbook/phase-6-review.md",
+    "playbook/quick-reference.md",
+    "playbook/prompt-pack.md",
+  ]},
+  { "Prompts" = [
+    "prompts/index.md",
+    { "Ideation" = [
+      "prompts/ideation/idea-wizard.md",
+      "prompts/ideation/100-to-10-filter.md",
+      "prompts/ideation/premortem-planner.md",
+      "prompts/ideation/multi-model-synthesis.md",
+      "prompts/ideation/project-opinion-elicitor.md",
+      "prompts/ideation/system-weaknesses-analyzer.md",
+    ]},
+    { "Automation" = [
+      "prompts/automation/agent-swarm-launcher.md",
+      "prompts/automation/deep-project-planner.md",
+      "prompts/automation/cli-error-tolerance.md",
+      "prompts/automation/the-git-committer.md",
+    ]},
+    { "Debugging" = [
+      "prompts/debugging/bug-hunter.md",
+      "prompts/debugging/peer-code-reviewer.md",
+    ]},
+    { "Refactoring" = [
+      "prompts/refactoring/code-reorganizer.md",
+      "prompts/refactoring/stub-eliminator.md",
+      "prompts/refactoring/stripe-level-ui.md",
+      "prompts/refactoring/deep-performance-audit.md",
+    ]},
+    { "Testing" = [
+      "prompts/testing/e2e-pipeline-validator.md",
+      "prompts/testing/deployment-verifier.md",
+    ]},
+    { "Documentation" = [
+      "prompts/documentation/readme-reviser.md",
+      "prompts/documentation/de-slopifier.md",
+    ]},
+    { "Workflow" = [
+      "prompts/workflow/deep-project-primer.md",
+    ]},
+  ]},
+  { "Resources" = [
+    "resources/index.md",
+    { "Tweets" = [
+      "resources/plan-refinement-loop.md",
+      "resources/planning-is-85-percent.md",
+      "resources/multi-agent-coordination.md",
+      "resources/beads-as-execution-graph.md",
+      "resources/massive-plan-documents.md",
+    ]},
+  ]},
+]
+
+[project.theme]
+language = "en"
+features = [
+    "content.code.copy",
+    "content.code.select",
+    "content.tabs.link",
+    "content.tooltips",
+    "navigation.footer",
+    "navigation.indexes",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    "navigation.path",
+    "navigation.sections",
+    "navigation.tabs",
+    "navigation.tabs.sticky",
+    "navigation.top",
+    "navigation.tracking",
+    "search.highlight",
+]
+
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to light mode"
+
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to dark mode"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/x-twitter"
+link = "https://x.com/doodlestein"
