@@ -29,7 +29,7 @@ Before you start planning, make sure the scaffolding is in place.
 
 ## About Beads
 
-Beads is the task management system. Think of it as a dependency-aware task graph where:
+[Beads](https://github.com/steveyegge/beads) is the task management system. Think of it as a dependency-aware task graph where:
 
 - **Epics** contain related groups of work
 - **Tasks** are individual units of work
