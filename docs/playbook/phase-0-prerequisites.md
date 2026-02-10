@@ -12,9 +12,9 @@ Before you start planning, make sure the scaffolding is in place.
 ## Checklist
 
 - [ ] Your repo has an `AGENTS.md` explaining tool rules, model selection, and safety constraints
-- [ ] Beads is initialized (or will be initialized) for the project
+- [ ] [Beads](https://github.com/steveyegge/beads) is initialized (or will be initialized) for the project
 - [ ] You've decided where your canonical plan lives (e.g., `PLAN.md` in repo root)
-- [ ] Agent coordination tooling is available (Agent Mail, if using multi-agent)
+- [ ] Agent coordination tooling is available (Agent Mail, if using multi-agent): [Python](https://github.com/Dicklesworthstone/mcp_agent_mail) | [Rust](https://github.com/Dicklesworthstone/mcp_agent_mail_rust) (newer port, WIP)
 - [ ] You have access to a strong reasoning model for plan critique (web app with extended thinking)
 
 ## About AGENTS.md

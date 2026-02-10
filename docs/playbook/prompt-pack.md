@@ -6,6 +6,8 @@ icon: lucide/copy
 
 All prompts in one place, ready to copy-paste. Replace placeholders like `<PROJECT_NAME>`, `<PLAN_FILE_PATH>`, etc.
 
+For the full prompt library with detailed usage notes and tips, see the [Prompts](../prompts/overview.md) tab.
+
 ---
 
 ## 1. Plan Drafting (Phase 1)

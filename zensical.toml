@@ -10,7 +10,7 @@ Based on <a href="https://jeffreyemanuel.com/">Jeffrey Emanuel's</a> agentic cod
 nav = [
   { "Home" = "index.md" },
   { "Playbook" = [
-    "playbook/index.md",
+    { "Overview" = "playbook/overview.md" },
     "playbook/principles.md",
     "playbook/phase-0-prerequisites.md",
     "playbook/phase-1-draft.md",
@@ -23,7 +23,7 @@ nav = [
     "playbook/prompt-pack.md",
   ]},
   { "Prompts" = [
-    { "Prompt Library" = "prompts/index.md" },
+    { "Overview" = "prompts/overview.md" },
     { "Ideation" = [
       "prompts/ideation/idea-wizard.md",
       "prompts/ideation/100-to-10-filter.md",
